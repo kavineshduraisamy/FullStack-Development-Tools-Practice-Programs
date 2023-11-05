@@ -1,0 +1,5 @@
+need nodemon 
+run strapi folder
+to run strapi folder -> npm run develop
+
+npm start
