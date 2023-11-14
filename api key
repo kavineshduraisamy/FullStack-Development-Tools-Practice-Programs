@@ -1,9 +1,0 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyCmvWzqqEvuCD5Kw9fp1dZXJWG4G-JSm7A",
-  authDomain: "courseo-bc202.firebaseapp.com",
-  databaseURL: "https://courseo-bc202-default-rtdb.firebaseio.com",
-  projectId: "courseo-bc202",
-  storageBucket: "courseo-bc202.appspot.com",
-  messagingSenderId: "762207527861",
-  appId: "1:762207527861:web:3d4319a6e89207ae2b6ffc"
-};
